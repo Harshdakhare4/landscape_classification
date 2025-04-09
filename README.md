@@ -1,6 +1,6 @@
 **Landscape Image Classifier**
 
-Deployed Link : https://landscapes-image-classifier.streamlit.app/
+Deployed Link : (https://landscapeclassification-fvcpr56dxytdgskfdftpab.streamlit.app/)
 <br/><br/> 
 
  
